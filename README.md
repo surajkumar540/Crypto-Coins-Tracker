@@ -1,3 +1,3 @@
-#Crypto Coins Tracker
+# Crypto Coins Tracker
 
 https://cryto-coins-tracker.netlify.app/
