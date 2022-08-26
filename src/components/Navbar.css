@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.underline{
+    text-decoration: none;
+}
+.icon{
+    font-size: 2.4rem;
+    color: #f2a900;
+}
+.purple{
+    font-size: 2.4rem;
+    color: yellow;
+}
+span{
+    color: white;
+}
+.purple:hover{
+    color:gold;
+}
